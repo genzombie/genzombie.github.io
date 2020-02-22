@@ -30,6 +30,7 @@ header .desc {
   padding: 1rem;
   margin: 2rem;
   height: 12rem;
+  max-width: 500px;
   background: #111;
   overflow: auto;
 }
